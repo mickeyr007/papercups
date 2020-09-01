@@ -21,12 +21,12 @@
       "required": false
     },
     "BACKEND_URL": {
-      "description": "The url of your of your site example: APP-NAME.herokuapp.com will be the same as REACT_APP_URL for one click heroku deploys",
+      "description": "The url of your of your site example: APP-NAME.herokuapp.com will be the same as REACT_APP_URL for one click heroku deploys.",
       "value": "papercups007.herokuapp.com",
       "required": true
     },
     "REACT_APP_URL": {
-      "description": "The url of your of your site example: APP-NAME.herokuapp.com will be the same as REACT_APP_URL for one click heroku deploys",
+      "description": "The url of your of your site example: APP-NAME.herokuapp.com will be the same as REACT_APP_URL for one click heroku deploys.",
       "value": "papercups007.herokuapp.com",
       "required": true
     }
